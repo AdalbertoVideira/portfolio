@@ -1,2 +1,2 @@
 # portfolio
-Adalberto Videira 2D3D Artist - Portfolio
+Adalberto Videira - Technical Artist - Portfolio
