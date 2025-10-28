@@ -171,7 +171,7 @@ strong {
 }
 
 .template_section .withIcon a:visited {
-    color: var(--dark-color);
+  color: var(--dark-color);
 }
 
 .template_section .withIcon .icon {
@@ -281,24 +281,40 @@ header {
 }
 
 /* Control Buttons */
-#printBtn {
-  position:fixed;
+.top-buttons-controls {
+  position: fixed;
   top: 1.5rem;
   right: 1.5rem;
   width: 2.5rem;
   height: 2.5rem;
+  display: flex;
+  width: calc(3 * 2.5rem + 2 * 10px);
+  height: 2.5rem;
+  justify-content: space-between;
+  z-index: 1000;
+}
+
+.btn {
+  width: 2.5rem;
+  height: 2.5rem;
+  border: none;
+  color: var(--dark-color);
+  font-size: 1rem;
   border: none;
   color: var(--dark-color);
   background-color: var(--light-color);
   border-radius: 4px;
   font-size: 1rem;
   box-shadow: rgba(0, 0, 0, 0.08) 0px 0px 18px 0px;
-  z-index: 1000;
 }
 
-#printBtn:hover {
+.btn:hover {
   background-color: var(--dark-grey-color);
   cursor: pointer;
+}
+
+.top-buttons-controls a:visited {
+  color: var(--dark-color);
 }
 
 .zoom-controls {
