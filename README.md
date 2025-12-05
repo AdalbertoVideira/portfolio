@@ -4,6 +4,6 @@
 
 
 
-> exemples:
+> [Notion page: ](https://adalbertoart.notion.site/Adalberto-Videira-Technical-Artist-1c9fe0d17571809c874fe8ca8939170a)
 >
->[Morgan Mulhall 2D3D Artist](http://www.morganmulhall.com)
+>[Resume: ](https://adalbertovideira.github.io/portfolio/cv/)
